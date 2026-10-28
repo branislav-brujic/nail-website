@@ -65,3 +65,9 @@ Subsequent pushes to `main` trigger publication automatically. This repository h
 ## Author
 
 [Branislav Brujic](https://branislav.brujic.com)
+
+## Support NAIL
+
+NAIL is free to use. If it helps your workflow, support its continued development.
+
+[Support NAIL on Ko-fi](https://ko-fi.com/branislavbrujic)
