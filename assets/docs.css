@@ -3,3 +3,5 @@
 @media(max-width:600px){.header-actions{gap:6px}.header-actions .btn{padding:9px 10px;font-size:11px}.header-actions .support-link{white-space:nowrap}}
 
 .header-actions .kofi-link{display:inline-flex;flex-shrink:0;align-items:center}.kofi-link img{display:block;width:145px;height:auto}@media(max-width:600px){.kofi-link img{width:110px}}@media(max-width:470px){nav .navlinks{display:none}.kofi-link img{width:100px}}
+
+.brand-beta{display:inline-block;background:#d97757;color:#1b1c1f;border:1px solid #f3a88c;border-radius:5px;padding:4px 8px;font-size:10px;line-height:1.2;letter-spacing:1.4px;font-weight:800;flex-shrink:0}@media(max-width:600px){header .brand{gap:5px}.brand-beta{font-size:9px;padding:3px 5px;letter-spacing:1px}}
