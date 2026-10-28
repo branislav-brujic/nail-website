@@ -1,5 +1,7 @@
 # NAIL Website
 
+> **BETA:** NAIL is currently in beta. Features and behavior may change between releases.
+
 The static landing page and how-to documentation for **NAIL — Neutral AI Interaction Layer**.
 
 NAIL is free to use and runs on your own computer or server. Access its workspace from a browser on your phone, tablet, laptop, or remote computer. AI provider subscriptions and usage charges are separate.
